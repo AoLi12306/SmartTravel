@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="travel_web" />
+        <module name="travel_spark" />
         <module name="travel_common" />
       </profile>
     </annotationProcessing>
